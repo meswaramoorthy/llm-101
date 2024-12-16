@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+langchain-openai
+langchain-core 
+langgraph
+langchain-community 
+beautifulsoup4
